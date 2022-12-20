@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML/CSS/Javascript, c++,**
+- 🌱 I’m currently learning **Python, SQL**
 
 
 
